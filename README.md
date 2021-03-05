@@ -1,4 +1,4 @@
-# vue
+# Petshop e-Commerce
 
 ## Project setup
 ```
